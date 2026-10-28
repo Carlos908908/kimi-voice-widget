@@ -1,5 +1,5 @@
 ---
-name: kimi-usage-widget
+name: kimi-voice-widget
 description: Windows 桌面悬浮窗：显示 Kimi（kimi.com）账户用量百分比（每 60 秒自动抓取），并支持按住热键语音输入（本地 faster-whisper 转写后自动把文字送进 Kimi 桌面 App 当前对话）。通过 Kimi WebBridge 浏览器扩展读取页面，自带一键引导（守护进程→Chrome→用量页→扩展连接）与断链自愈。Use when installing, running, configuring (hotkey / whisper model / click position), or troubleshooting this widget on a Windows machine — blank or stale usage data, HTTP 502 from the WebBridge daemon, bridge start failure popups, voice text not reaching the Kimi app, drag jitter.
 ---
 

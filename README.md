@@ -1,4 +1,4 @@
-# Kimi 用量悬浮窗 (kimi-usage-widget)
+# Kimi 用量悬浮窗 (kimi-voice-widget)
 
 Windows 桌面悬浮窗：实时显示 Kimi（kimi.com）账户用量百分比 + 按住说话就能把语音转文字发进 Kimi 桌面 App 当前会话。零 API token，全部本地完成。
 
